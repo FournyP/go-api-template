@@ -2,8 +2,8 @@
 
 This is a project for [Go](https://golang.org/) API use :
 
-- [Fiber](https://gofiber.io/) for HTTP handle
-- [ent](https://entgo.io/) for ORM
+- [Fiber](https://gofiber.io/) as HTTP handle
+- [ent](https://entgo.io/) as ORM
 - [wire](https://github.com/google/wire) as dependency injection
 
 ## How to use
@@ -12,6 +12,8 @@ This is a project for [Go](https://golang.org/) API use :
 
 ```sh
 $ git clone https://github.com/FournyP/go-api-template
+$ cd go-api-template
+$ git remote set-url origin <YOUR REPOSITORY URL>
 ```
 
 ### 2. Rename module name
