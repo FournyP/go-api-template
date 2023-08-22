@@ -1,6 +1,6 @@
 # Golang template
 
-This is a project for [Go](https://golang.org/) API it use :
+This is a project for [Go](https://golang.org/) API use :
 
 - [Fiber](https://gofiber.io/) for HTTP handle
 - [ent](https://entgo.io/) for ORM
